@@ -1,0 +1,1 @@
+Openshift Sustaining maintains curated forks of third-party and extended Go libraries, to backport CVE fixes to branches depending on unsupported versions of Go. Visit the [Confluence page](https://redhat.atlassian.net/wiki/external/ZTNhYTkxZDQ5YzVkNDYwNjkxZjAzNjc4MjQ4MGU1MWE) to view the full list of maintained forks and resolved CVEs.
